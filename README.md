@@ -16,9 +16,6 @@
 
 <div align="center">  
  
-  [![Enviar e-mail](https://img.shields.io/badge/-Enviar%20e--mail-red?style=for-the-badge&logo=gmail)](mailto:contato.henriquekrause@gmail.com?subject=Contato%Henrique%Krause|Dev%20do%20e-mail)
-
-  
 <a href="https://www.linkedin.com/in/henrique-krause-4518771b0/" target="_blank">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white">
 </a>
